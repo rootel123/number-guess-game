@@ -1,0 +1,64 @@
+
+body{
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+    font-family: monospace;
+    height: 100vh;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210313/pngtree-colorful-pastel-cartoon-gradient-background-image_584080.jpg);
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+
+.container {
+    border: 10px solid white;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(247, 243, 242, 0.7);
+  }
+
+.title{
+    padding-top: 130px;
+}
+
+.reselt{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: xx-large;
+}
+
+.chance{
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+
+.user{
+    width: 300px;
+    height: 50px;
+    margin-bottom: 10px;
+    font-size:medium;
+    border-radius: 24px;
+    padding-left: 25px;
+}
+
+.button{
+    margin-bottom: 10px;
+}
+
+.button:hover{
+    transform: scale(1.1);
+}
+
+.main-img{
+    width: 200px;
+    height: 200px;
+}
+
+.main-img{
+    width: 200px;
+    height: 200px;
+}

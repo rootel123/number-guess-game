@@ -1,3 +1,3 @@
-# num=guess-game
+# number-guess-game
 
 https://rootel.netlify.app
